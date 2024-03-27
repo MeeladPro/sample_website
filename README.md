@@ -1,2 +1,2 @@
 # Meelad Sample Website
-{Meelad} (https://meeladpro.github.io)
+{Meelad}: (https://meeladpro.github.io)
